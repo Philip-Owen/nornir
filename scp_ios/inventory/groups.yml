@@ -1,0 +1,7 @@
+---
+cisco-ios:
+      username: admin
+      password: admin
+      platform: cisco_ios
+      data:
+        img: 'test.txt'
