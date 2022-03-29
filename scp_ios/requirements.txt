@@ -23,7 +23,7 @@ netaddr==0.7.19
 netmiko==2.3.3
 nornir==2.2.0
 nxapi-plumbing==0.5.2
-paramiko==2.5.0
+paramiko==2.10.1
 pycparser==2.19
 pydantic==0.18.2
 pyeapi==0.8.2
